@@ -1,4 +1,4 @@
-var files = require('./C:\');
+var files = require('./C:\')
 function SearchFilesName (file)		
 -{		
 -      if (file == files)		
